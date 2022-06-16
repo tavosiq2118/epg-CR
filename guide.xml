@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 4 de Costa Rica (Repretel)">
+    <display-name lang="es">Canal 4 de Costa Rica (Repretel)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 6 Repretel (Costa Rica)">
+    <display-name lang="es">Canal 6 Repretel (Costa Rica)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 7 de Teletica (Costa Rica)">
+    <display-name lang="es">Canal 7 de Teletica (Costa Rica)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Extra TV 42 de Costa Rica">
+    <display-name lang="es">Canal Extra TV 42 de Costa Rica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 de Costa Rica">
+    <display-name lang="es">Canal 13 de Costa Rica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 11 de Costa Rica">
+    <display-name lang="es">Canal 11 de Costa Rica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20220615030000 -0500" stop="20220615060000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Canal 4 Costa Rica</title>
+  </programme>
+  <programme start="20220615060000 -0500" stop="20220615090000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Canal 4 Costa Rica</title>
+  </programme>
+  <programme start="20220615090000 -0500" stop="20220615100000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Canal 4 Costa Rica</title>
+  </programme>
+  <programme start="20220615100000 -0500" stop="20220615120000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Hoy</title>
+  </programme>
+  <programme start="20220615120000 -0500" stop="20220615130000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Amores con Trampa</title>
+  </programme>
+  <programme start="20220615130000 -0500" stop="20220615140000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Cuidado con el Ángel</title>
+  </programme>
+  <programme start="20220615140000 -0500" stop="20220615150000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Las tontas no van al cielo</title>
+  </programme>
+  <programme start="20220615150000 -0500" stop="20220615160000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Alma de Hierro</title>
+  </programme>
+  <programme start="20220615160000 -0500" stop="20220615170000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Zacatillo</title>
+  </programme>
+  <programme start="20220615170000 -0500" stop="20220615180000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Niña de mi corazón</title>
+  </programme>
+  <programme start="20220615180000 -0500" stop="20220615190000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20220615190000 -0500" stop="20220615200000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">America's Next Top Model</title>
+  </programme>
+  <programme start="20220615200000 -0500" stop="20220615210000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Survivor</title>
+  </programme>
+  <programme start="20220615210000 -0500" stop="20220615220000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20220615220000 -0500" stop="20220615230000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">Alerta Cobra</title>
+  </programme>
+  <programme start="20220615230000 -0500" stop="20220616000000 -0500" channel="Canal 4 de Costa Rica (Repretel)">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20220615003000 -0500" stop="20220615011500 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Mujer... Casos de la vida real</title>
+  </programme>
+  <programme start="20220615011500 -0500" stop="20220615020000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220615020000 -0500" stop="20220615030000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Mujeres al Límite</title>
+  </programme>
+  <programme start="20220615030000 -0500" stop="20220615040000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">La tercera en discordia</title>
+  </programme>
+  <programme start="20220615040000 -0500" stop="20220615050000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220615050000 -0500" stop="20220615055000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Llena de amor</title>
+  </programme>
+  <programme start="20220615055000 -0500" stop="20220615080000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220615080000 -0500" stop="20220615100000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Giros</title>
+  </programme>
+  <programme start="20220615100000 -0500" stop="20220615110000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">S.O.S. Me Estoy Enamorando</title>
+  </programme>
+  <programme start="20220615110000 -0500" stop="20220615115800 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Sortilegio</title>
+  </programme>
+  <programme start="20220615115800 -0500" stop="20220615140000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220615140000 -0500" stop="20220615150000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Mi fortuna es amarte</title>
+  </programme>
+  <programme start="20220615150000 -0500" stop="20220615160000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220615160000 -0500" stop="20220615170000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20220615170000 -0500" stop="20220615185800 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220615185800 -0500" stop="20220615200000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220615200000 -0500" stop="20220615210000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Hercai Amor y venganza</title>
+  </programme>
+  <programme start="20220615210000 -0500" stop="20220615220000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220615220000 -0500" stop="20220615230000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Cukur, El Pozo</title>
+  </programme>
+  <programme start="20220615230000 -0500" stop="20220615233000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220615233000 -0500" stop="20220616003000 -0500" channel="Canal 6 Repretel (Costa Rica)">
+    <title lang="es">La Candidata</title>
+  </programme>
+  <programme start="20220615003000 -0500" stop="20220615013000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20220615013000 -0500" stop="20220615023000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué buena tarde</title>
+  </programme>
+  <programme start="20220615023000 -0500" stop="20220615033000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20220615033000 -0500" stop="20220615043000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">7 días</title>
+  </programme>
+  <programme start="20220615043000 -0500" stop="20220615050000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20220615050000 -0500" stop="20220615060000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Dulce ambición</title>
+  </programme>
+  <programme start="20220615060000 -0500" stop="20220615080000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias - Matutina</title>
+  </programme>
+  <programme start="20220615080000 -0500" stop="20220615100000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220615100000 -0500" stop="20220615110000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Silvana sin lana</title>
+  </programme>
+  <programme start="20220615110000 -0500" stop="20220615120000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">La ley del corazón</title>
+  </programme>
+  <programme start="20220615120000 -0500" stop="20220615133000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias meridiana</title>
+  </programme>
+  <programme start="20220615133000 -0500" stop="20220615143000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20220615143000 -0500" stop="20220615153000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20220615153000 -0500" stop="20220615163000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20220615163000 -0500" stop="20220615173000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20220615173000 -0500" stop="20220615183000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">¡Qué buena tarde</title>
+  </programme>
+  <programme start="20220615183000 -0500" stop="20220615190000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20220615190000 -0500" stop="20220615200000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20220615200000 -0500" stop="20220615210000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20220615210000 -0500" stop="20220615220000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Doctor Milagro</title>
+  </programme>
+  <programme start="20220615220000 -0500" stop="20220615230000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20220615230000 -0500" stop="20220616000000 -0500" channel="Canal 7 de Teletica (Costa Rica)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20220615060000 -0500" stop="20220615070000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Norteña</title>
+  </programme>
+  <programme start="20220615070000 -0500" stop="20220615073000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Astro chamanismo</title>
+  </programme>
+  <programme start="20220615073000 -0500" stop="20220615083000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20220615083000 -0500" stop="20220615090000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Congregación mística</title>
+  </programme>
+  <programme start="20220615090000 -0500" stop="20220615093000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20220615093000 -0500" stop="20220615100000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Un encuentro con la verdad</title>
+  </programme>
+  <programme start="20220615100000 -0500" stop="20220615120000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Previa - Selección nacional mexicana</title>
+  </programme>
+  <programme start="20220615120000 -0500" stop="20220615123000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20220615123000 -0500" stop="20220615130000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Astro chamanismo</title>
+  </programme>
+  <programme start="20220615130000 -0500" stop="20220615140000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Aló Arturo TV</title>
+  </programme>
+  <programme start="20220615140000 -0500" stop="20220615150000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Previa - Selección nacional mexicana</title>
+  </programme>
+  <programme start="20220615150000 -0500" stop="20220615160000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20220615160000 -0500" stop="20220615163000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Congregación mística</title>
+  </programme>
+  <programme start="20220615163000 -0500" stop="20220615170000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20220615170000 -0500" stop="20220615180000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Salud y algo más</title>
+  </programme>
+  <programme start="20220615180000 -0500" stop="20220615183000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20220615183000 -0500" stop="20220615190000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra sucesos</title>
+  </programme>
+  <programme start="20220615190000 -0500" stop="20220615210000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Sabor y arte con Pitusa</title>
+  </programme>
+  <programme start="20220615210000 -0500" stop="20220615213000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20220615213000 -0500" stop="20220615220000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">El destino de tu suerte</title>
+  </programme>
+  <programme start="20220615220000 -0500" stop="20220615223000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">A fondo</title>
+  </programme>
+  <programme start="20220615223000 -0500" stop="20220615233000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Docu - Cultura y arte</title>
+  </programme>
+  <programme start="20220615233000 -0500" stop="20220616000000 -0500" channel="Canal Extra TV 42 de Costa Rica">
+    <title lang="es">Pop</title>
+  </programme>
+  <programme start="20220615013000 -0500" stop="20220615020000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Código Trece</title>
+  </programme>
+  <programme start="20220615020000 -0500" stop="20220615023000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">ET</title>
+  </programme>
+  <programme start="20220615023000 -0500" stop="20220615024500 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Japan Video Topics</title>
+  </programme>
+  <programme start="20220615024500 -0500" stop="20220615030000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Patrimonio de la humanidad en Japón</title>
+  </programme>
+  <programme start="20220615030000 -0500" stop="20220615033000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">NCC</title>
+  </programme>
+  <programme start="20220615033000 -0500" stop="20220615040000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20220615040000 -0500" stop="20220615043000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20220615043000 -0500" stop="20220615053000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Complejamente</title>
+  </programme>
+  <programme start="20220615053000 -0500" stop="20220615060000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20220615060000 -0500" stop="20220615061500 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220615061500 -0500" stop="20220615063000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Desiderata</title>
+  </programme>
+  <programme start="20220615063000 -0500" stop="20220615080000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Trece Costa Rica noticias</title>
+  </programme>
+  <programme start="20220615080000 -0500" stop="20220615090000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Póngale bonito</title>
+  </programme>
+  <programme start="20220615090000 -0500" stop="20220615093000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">El sabor de mi tierra</title>
+  </programme>
+  <programme start="20220615093000 -0500" stop="20220615100000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20220615100000 -0500" stop="20220615103000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20220615103000 -0500" stop="20220615120000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Café nacional</title>
+  </programme>
+  <programme start="20220615120000 -0500" stop="20220615130000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Trece Costa Rica noticias</title>
+  </programme>
+  <programme start="20220615130000 -0500" stop="20220615140000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Complejamente</title>
+  </programme>
+  <programme start="20220615140000 -0500" stop="20220615143000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Una comida para el corazón</title>
+  </programme>
+  <programme start="20220615143000 -0500" stop="20220615150000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Nexos</title>
+  </programme>
+  <programme start="20220615150000 -0500" stop="20220615153000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20220615153000 -0500" stop="20220615160000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Aprendo en Casa</title>
+  </programme>
+  <programme start="20220615160000 -0500" stop="20220615170000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Nuestras regiones</title>
+  </programme>
+  <programme start="20220615170000 -0500" stop="20220615174500 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Santa misa desde la Catedral</title>
+  </programme>
+  <programme start="20220615174500 -0500" stop="20220615180000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">El reportero</title>
+  </programme>
+  <programme start="20220615180000 -0500" stop="20220615190000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Ahí viene Asa</title>
+  </programme>
+  <programme start="20220615190000 -0500" stop="20220615203000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Trece Costa Rica noticias</title>
+  </programme>
+  <programme start="20220615203000 -0500" stop="20220615213000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Nuestras regiones</title>
+  </programme>
+  <programme start="20220615213000 -0500" stop="20220615220000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Fuerza Interior</title>
+  </programme>
+  <programme start="20220615220000 -0500" stop="20220615230000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Una mirada</title>
+  </programme>
+  <programme start="20220615230000 -0500" stop="20220615233000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Nexos</title>
+  </programme>
+  <programme start="20220615233000 -0500" stop="20220616000000 -0500" channel="Canal 13 de Costa Rica">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20220615001500 -0500" stop="20220615010000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Miembros al aire</title>
+  </programme>
+  <programme start="20220615010000 -0500" stop="20220615020000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20220615020000 -0500" stop="20220615030000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20220615030000 -0500" stop="20220615040000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20220615040000 -0500" stop="20220615050000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20220615050000 -0500" stop="20220615060000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Informe 11, las historias</title>
+  </programme>
+  <programme start="20220615060000 -0500" stop="20220615090000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">¡Despierta América</title>
+  </programme>
+  <programme start="20220615090000 -0500" stop="20220615103000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">120 minutos</title>
+  </programme>
+  <programme start="20220615103000 -0500" stop="20220615113000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">La Cocina de</title>
+  </programme>
+  <programme start="20220615113000 -0500" stop="20220615123000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Andrea</title>
+  </programme>
+  <programme start="20220615123000 -0500" stop="20220615133000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">¡Cuéntamelo ya</title>
+  </programme>
+  <programme start="20220615133000 -0500" stop="20220615140000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Noticiero Univisión - Edición digital</title>
+  </programme>
+  <programme start="20220615140000 -0500" stop="20220615150000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once - Vespertina</title>
+  </programme>
+  <programme start="20220615150000 -0500" stop="20220615160000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20220615160000 -0500" stop="20220615170000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20220615170000 -0500" stop="20220615180000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20220615180000 -0500" stop="20220615190000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once, edición estelar</title>
+  </programme>
+  <programme start="20220615190000 -0500" stop="20220615193000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20220615193000 -0500" stop="20220615200000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20220615200000 -0500" stop="20220615210000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Conexión fútbol</title>
+  </programme>
+  <programme start="20220615210000 -0500" stop="20220615220000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Informe 11, Las historias - Lo mejor del miércoles</title>
+  </programme>
+  <programme start="20220615220000 -0500" stop="20220615230000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">NC Once - Edición Nocturna</title>
+  </programme>
+  <programme start="20220615230000 -0500" stop="20220615233000 -0500" channel="Canal 11 de Costa Rica">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+</tv>
